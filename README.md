@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, Tableau**
 
-- 👨‍💻 All of my projects are available at [https://github.com/senArko/projects](https://github.com/senArko/projects)
+- 👨‍💻 All of my projects are available at [https://github.com/senArko?tab=repositories](https://github.com/senArko?tab=repositories)
 
 - 📝 My Portfolio Website [https://senarko.github.io/Arko_Website.github.io/](https://senarko.github.io/Arko_Website.github.io/)
 
